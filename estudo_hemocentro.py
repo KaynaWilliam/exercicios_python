@@ -144,8 +144,3 @@ else:
   print('Foram encontrados os seguintes impedimentos:')
   for impedimento in impedimentos:
     print(f'- {impedimento}')
-
-
-
-
-#não é por nada não, sor... mas esse aqui eu fiz com muito esmero kkkkkkkkkkkk
